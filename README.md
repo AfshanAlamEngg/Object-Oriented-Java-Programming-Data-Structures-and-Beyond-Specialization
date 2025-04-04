@@ -2,13 +2,13 @@
 Welcome to the progress tracker for the Object Oriented Java Programming Data Structures and Beyond Specialization.  This Specialization consists of 5 courses they covers intermediate topics in software development. You’ll learn object-oriented programming principles that will allow you to use Java to its full potential, and you’ll implement data structures and algorithms for organizing large amounts of data in a way that is both efficient and easy to work with. Below you'll find the details and progress of each course.
 
 ## Table of Contents
-1. [Course 1: Course Title](#course-1-course-title)
-2. [Course 2: Course Title](#course-2-course-title)
-3. [Course 3: Course Title](#course-3-course-title)
-4. [Course 4: Course Title](#course-4-course-title)
-5. [Course 5: Course Title](#course-5-course-title)
+1. [Course 1 - Object Oriented Programming in Java](#course-1---object-oriented-programming-in-java)
+2. [Course 2 - Data Structures and Performance](#course-2---data-structures-and-performance)
+3. [Course 3 - Advanced Data Structures in Java](#course-3---advanced-data-structures-in-java)
+4. [Course 4 - Mastering the Software Engineering Interview](#course-4---mastering-the-software-engineering-interview)
+5. [Course 5 - Capstone Analyzing (Social) Network Data](#course-5---capstone-analyzing-social-network-data)
 
-## Course 1: Course Title
+## Course 1 - Object Oriented Programming in Java
 **Status:** [Not Started/In Progress/Completed]  
 **Completion Date:** [Date]  
 
@@ -24,7 +24,7 @@ Welcome to the progress tracker for the Object Oriented Java Programming Data St
 - [Assignment/Project 1 with status]
 - [Assignment/Project 2 with status]
 
-## Course 2: Course Title
+## Course 2 - Data Structures and Performance
 **Status:** [Not Started/In Progress/Completed]  
 **Completion Date:** [Date]  
 
@@ -40,7 +40,7 @@ Welcome to the progress tracker for the Object Oriented Java Programming Data St
 - [Assignment/Project 1 with status]
 - [Assignment/Project 2 with status]
 
-## Course 3: Course Title
+## Course 3 - Advanced Data Structures in Java
 **Status:** [Not Started/In Progress/Completed]  
 **Completion Date:** [Date]  
 
@@ -56,7 +56,7 @@ Welcome to the progress tracker for the Object Oriented Java Programming Data St
 - [Assignment/Project 1 with status]
 - [Assignment/Project 2 with status]
 
-## Course 4: Course Title
+## Course 4 - Mastering the Software Engineering Interview
 **Status:** [Not Started/In Progress/Completed]  
 **Completion Date:** [Date]  
 
@@ -72,7 +72,7 @@ Welcome to the progress tracker for the Object Oriented Java Programming Data St
 - [Assignment/Project 1 with status]
 - [Assignment/Project 2 with status]
 
-## Course 5: Course Title
+## Course 5 - Capstone Analyzing (Social) Network Data
 **Status:** [Not Started/In Progress/Completed]  
 **Completion Date:** [Date]  
 
